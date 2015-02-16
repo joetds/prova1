@@ -2,4 +2,5 @@
 
 1. Fitxers de codi
 2. Fitxers de dades
-3. Hola
+3. Modificació nova
+4. Increment de codi
